@@ -286,7 +286,7 @@ section.especialidades.flex {
 
 .txt-sobre {
     color: #fff;
-    padding: 20px;
+    padding: 40px;
 }
 
 .txt-sobre h2 {
@@ -319,6 +319,7 @@ section.especialidades.flex {
 
 .midias-sociais {
     display: flex;
+    
     justify-content: start;
     align-items: center;
     gap: 15px;
