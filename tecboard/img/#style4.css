@@ -11,3 +11,14 @@ body {
     height: 100vh;
     margin: 5% 5%;
 }
+
+header {
+    display: flex;
+    justify-content: start;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
