@@ -22,3 +22,9 @@ main {
     justify-content: center;
     align-items: center;
 }
+
+button {
+    border-radius: 8px;
+    background-color: #ffb6c1;
+    border: solid 1px black;
+}
